@@ -1,0 +1,10 @@
+=== Test Suite: Organizational Closure & RAF ===
+
+  TEST: oc_production_closure ... PASS
+  TEST: oc_closure_index ... PASS
+  TEST: oc_dependency_depths ... PASS
+  TEST: acs_find_maximal_raf empty ... PASS
+  TEST: acs_find_maximal_raf simple autocatalytic ... PASS
+  TEST: acs_is_raf verification ... PASS
+
+=== Results: 6 passed, 0 failed ===

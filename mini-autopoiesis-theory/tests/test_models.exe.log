@@ -1,0 +1,11 @@
+=== Test Suite: Chemoton & Hypercycle Models ===
+
+  TEST: chemoton_init ... PASS
+  TEST: chemoton_integrate_rk4 ... PASS
+  TEST: chemoton_check_autopoiesis ... PASS
+  TEST: hypercycle_init ... PASS
+  TEST: hypercycle_find_fixed_point ... PASS
+  TEST: hypercycle_integrate_rk4 ... PASS
+  TEST: hypercycle_error_threshold ... PASS
+
+=== Results: 7 passed, 0 failed ===

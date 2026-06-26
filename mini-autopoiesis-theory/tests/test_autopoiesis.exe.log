@@ -1,0 +1,16 @@
+=== Test Suite: Autopoiesis Core ===
+
+  TEST: ap_system_init creates empty system ... PASS
+  TEST: ap_add_component registers components ... PASS
+  TEST: ap_add_component rejects invalid input ... PASS
+  TEST: ap_add_production creates production relations ... PASS
+  TEST: ap_check_autopoiesis returns 0 for empty system ... PASS
+  TEST: ap_check_autopoiesis with minimal autopoietic system ... PASS
+  TEST: ap_compute_organizational_closure ... PASS
+  TEST: ap_evolve_step updates concentrations ... PASS
+  TEST: ap_apply_perturbation modifies component and updates state ... PASS
+  TEST: ap_build_production_adjacency ... PASS
+  TEST: ap_production_transitive_closure ... PASS
+  TEST: ap_verify_self_produced_boundary ... PASS
+
+=== Results: 12 passed, 0 failed ===

@@ -1,0 +1,11 @@
+=== Test Suite: Reaction Network ===
+
+  TEST: rn_network_init ... PASS
+  TEST: rn_add_species ... PASS
+  TEST: rn_add_reaction ... PASS
+  TEST: rn_build_matrices ... PASS
+  TEST: rn_compute_reaction_rates ... PASS
+  TEST: rn_is_autocatalytic_species ... PASS
+  TEST: rn_network_connectivity ... PASS
+
+=== Results: 7 passed, 0 failed ===
